@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures, C++, Java**
 
-- 📫 How to reach me **gaurinathpsubash@gmail.com**
+- 📫 Reach me at **gaurinathpsubash@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
